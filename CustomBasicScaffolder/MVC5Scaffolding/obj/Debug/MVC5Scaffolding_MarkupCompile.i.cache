@@ -4,7 +4,7 @@
 library
 C#
 .cs
-E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\
+C:\Users\Usuario4\Desktop\topmeme\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\
 Happy.Scaffolding.MVC
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 5-490477246
 
-35867822540
-31-2106210270
+35457405428
+31207358703
 UI\ModelMetadataDialog.xaml;UI\QueryFormSetting.xaml;UI\ResultListSetting.xaml;UI\SPScaffolderDialog.xaml;UI\MvcScaffolderDialog.xaml;
 
-False
+True
 
